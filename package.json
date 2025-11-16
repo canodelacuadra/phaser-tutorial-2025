@@ -11,6 +11,10 @@
   "devDependencies": {
     "vite": "^7.2.2"
   },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/canodelacuadra/phaser-tutorial-2025.git"
+},
   "dependencies": {
     "phaser": "^3.90.0"
   }
